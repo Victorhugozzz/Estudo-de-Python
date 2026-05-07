@@ -101,7 +101,7 @@ Este repositório faz parte da minha jornada para me tornar um desenvolvedor cad
 
 Os desafios e exercícios utilizados neste repositório foram criados por:
 
-🎓 :contentReference[oaicite:0]{index=0}  
+🎓 Gustavo Guanabara  
 📺 Curso em Vídeo
 
 Este repositório possui apenas fins educacionais e de prática pessoal.
