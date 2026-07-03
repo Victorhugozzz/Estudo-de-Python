@@ -1,0 +1,5 @@
+print('===== DESAFIO 13 =====')
+produto = float(input('Digite o valor do produto: '))
+desconto = float(input('Digite o valor do desconto em porcentagem: '))
+novo = produto * (1 - desconto/100)
+print('O valor do produto com o desconto é: {:.2f}'.format(novo))
